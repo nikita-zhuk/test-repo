@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0710"
+   LastUpgradeVersion = "0720"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "985CADF71C174FA000C66EDB"
-               BuildableName = "Testapp.app"
-               BlueprintName = "Testapp"
-               ReferencedContainer = "container:Testapp.xcodeproj">
+               BlueprintIdentifier = "989AD7461C1CBED1008DF982"
+               BuildableName = "WorkoutPlanner.app"
+               BlueprintName = "WorkoutPlanner"
+               ReferencedContainer = "container:WorkoutPlanner.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,14 +28,34 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "989AD75F1C1CBED1008DF982"
+               BuildableName = "WorkoutPlannerTests.xctest"
+               BlueprintName = "WorkoutPlannerTests"
+               ReferencedContainer = "container:WorkoutPlanner.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "989AD76A1C1CBED1008DF982"
+               BuildableName = "WorkoutPlannerUITests.xctest"
+               BlueprintName = "WorkoutPlannerUITests"
+               ReferencedContainer = "container:WorkoutPlanner.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "985CADF71C174FA000C66EDB"
-            BuildableName = "Testapp.app"
-            BlueprintName = "Testapp"
-            ReferencedContainer = "container:Testapp.xcodeproj">
+            BlueprintIdentifier = "989AD7461C1CBED1008DF982"
+            BuildableName = "WorkoutPlanner.app"
+            BlueprintName = "WorkoutPlanner"
+            ReferencedContainer = "container:WorkoutPlanner.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "985CADF71C174FA000C66EDB"
-            BuildableName = "Testapp.app"
-            BlueprintName = "Testapp"
-            ReferencedContainer = "container:Testapp.xcodeproj">
+            BlueprintIdentifier = "989AD7461C1CBED1008DF982"
+            BuildableName = "WorkoutPlanner.app"
+            BlueprintName = "WorkoutPlanner"
+            ReferencedContainer = "container:WorkoutPlanner.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "985CADF71C174FA000C66EDB"
-            BuildableName = "Testapp.app"
-            BlueprintName = "Testapp"
-            ReferencedContainer = "container:Testapp.xcodeproj">
+            BlueprintIdentifier = "989AD7461C1CBED1008DF982"
+            BuildableName = "WorkoutPlanner.app"
+            BlueprintName = "WorkoutPlanner"
+            ReferencedContainer = "container:WorkoutPlanner.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

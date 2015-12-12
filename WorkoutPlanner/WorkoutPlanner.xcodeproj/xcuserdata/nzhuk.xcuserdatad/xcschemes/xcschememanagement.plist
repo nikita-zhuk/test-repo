@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Testapp.xcscheme</key>
+		<key>WorkoutPlanner.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>985CADF71C174FA000C66EDB</key>
+		<key>989AD7461C1CBED1008DF982</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>989AD75F1C1CBED1008DF982</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>989AD76A1C1CBED1008DF982</key>
 		<dict>
 			<key>primary</key>
 			<true/>
